@@ -1,0 +1,6 @@
+Suatu hari ada lima orang yang sedang memakan apel. Sebut mereka Ari, Bani, Cia, Danny, dan Elang. Ari menghabiskan apelnya sebelum Elang tetapi setelah Cia. Bani menghabiskannya setelah Danny. Cia menghabiskan apelnya setelah Danny sebelum Bani.
+
+Siapakah yang berada di urutan no 3 dalam memakan apel tersebut? [5 POINTS]
+
+
+Bani

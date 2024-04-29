@@ -1,0 +1,3 @@
+Harga sebuah GPU dan sebuah Webcam adalah Rp5.500.000. Jika harga GPU lebih besar Rp5.000.000 dari harga Webcam. Berapakah harga dari masing-masing GPU dan Webcam? Jelaskan sesederhana mungkin! [5 POINTS]
+
+Jika harga GPU lebih besar Rp5.000.000 dari harga Webcam. Maka Harga total GPU dan webcam dikurangi Harga GPU, yang menghasilkan 500k. 500k ini adalah Harga webcam.
